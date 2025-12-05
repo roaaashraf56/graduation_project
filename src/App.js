@@ -26,7 +26,6 @@ function App() {
         
         {/* Sidebar */}
         <Sidebar />
-
         {/* Main content */}
         <Box sx={{ flexGrow: 1, p: 2 }}>
           
@@ -53,5 +52,6 @@ function App() {
     </ThemeProvider>
   );
 }
+      {/* ay haaggagagaaaaa */}
 
 export default App;
